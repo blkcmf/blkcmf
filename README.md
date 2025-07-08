@@ -18,38 +18,46 @@
 ---
 
 ### 🧰 Languages & Cybersecurity Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash Scripting"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/burpsuite/burpsuite-icon.svg" width="40" title="Burp Suite"/>
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="40" title="Metasploit"/>
-  <img src="https://www.kali.org/images/kali-logo.svg" width="40" title="Kali Linux"/>
-  <img src="https://www.svgrepo.com/show/353199/nmap.svg" width="40" title="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Recon-ng_logo.png" width="40" title="Recon-ng"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/OWASP_logo.svg" width="40" title="OWASP Top 10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/SQL_injection.svg" width="40" title="SQL Injection"/>
+<a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://icon-library.com/images/bash-icon/bash-icon-6.jpg" alt="bash" width="50" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>
+<a href="https://www.metasploit.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.metasploit.com/includes/images/favicon.ico" alt="metasploit" width="50" height="50" /></a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="burpsuite" width="50" height="50" /></a>
+<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/6716868?s=48&v=4" alt="zap" width="50" height="50" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img align="center" src="https://www.wireshark.org/assets/icons/favicon.ico" alt="" width="50" height="50" /></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/63385?s=48&v=4" alt="nmap" width="50" height="50" /></a>
+<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/15949799?s=48&v=4" alt="hashcat" width="50" height="50" /></a>
+<!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
 </p>
 
 ---
 
-### 🔍 About Me:
-- 💻 I’m currently improving my skills in **Web Exploitation**, **Bug Hunting**, and **Red Teaming**
-- 🛡️ Passionate about ethical hacking, responsible disclosure, and CTF challenges
-- 📚 Always learning and practicing on **TryHackMe**, **Hack The Box**, and reading write-ups
+### 🧠 My Cybersecurity Skill Set
+
+| Skill / Tool         | Level        |
+|----------------------|--------------|
+| Bash Scripting 🐚     | ██████████░░ 90% |
+| Python 🐍            | █████████░░░ 80% |
+| Burp Suite 🔥        | ████████░░░░ 75% |
+| Metasploit ⚔️        | ███████░░░░░ 70% |
+| Nmap & Recon 🛰️      | ████████░░░░ 75% |
+| JavaScript 🛠️        | ██████░░░░░░ 60% |
+| OWASP Top 10 📚       | █████████░░░ 85% |
+| Kali Linux 🐉        | ██████████░░ 90% |
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belkacemelkasmi&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belkacemelkasmi&theme=github-dark-blue" />
-</p>
+### 📊 Skill Graph (Visual)
+
+> ![Skill Bar Graph - Coming Soon](https://via.placeholder.com/600x200?text=Skill+Bar+Graph+Image+Here)
+
 
 ---
 
-### 🚀 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belkacemelkasmi&layout=compact&theme=github_dark" />
-</p>
-
+### 🧑‍💻 About Me:
+- 🧠 Always learning, breaking, and responsibly reporting bugs
+- 🛠️ Focused on **web application vulnerabilities** and automation
+- 🎯 Practicing daily on **TryHackMe**, **Hack The Box**, and doing CTF challenges
